@@ -2009,3 +2009,456 @@ Received Import Request.
   artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
 Start importing Assets/Scenes/Maze.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
  -> (artifact id: '503304c1e96a22c1e31ad0b2ef09c6b2') in 0.006358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.716854 seconds.
+  path: Packages/com.unity.xr.core-utils/package.json
+  artifactKey: Guid(4caaaba15559d47f7b3f773241c999af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.core-utils/package.json using Guid(4caaaba15559d47f7b3f773241c999af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac8c87d7d15e6e3d4ef6a6b482f194d') in 0.008469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.587116 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/package.json
+  artifactKey: Guid(fac9fb4ad804244e0911f21e340a3d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/package.json using Guid(fac9fb4ad804244e0911f21e340a3d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c433475f8f023ce73222d24b7b0570') in 0.002038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.442492 seconds.
+  path: Packages/com.unity.xr.legacyinputhelpers/package.json
+  artifactKey: Guid(d16ab7e2b2998ad4c9729d86bb9aa666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.legacyinputhelpers/package.json using Guid(d16ab7e2b2998ad4c9729d86bb9aa666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4296a21e532cff595c7a90f5a5c93d92') in 0.002008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.592407 seconds.
+  path: Packages/com.unity.xr.management/package.json
+  artifactKey: Guid(a8437ae6df3ab4de78c661f8e1148bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.management/package.json using Guid(a8437ae6df3ab4de78c661f8e1148bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de33f042f10cd5f9a1c84fa0f24d68b8') in 0.002386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.922015 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Editor
+  artifactKey: Guid(08757b89960994492baa89d8001801e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Editor using Guid(08757b89960994492baa89d8001801e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806c970fafba552d61173733e76fe447') in 0.005232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034316 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Editor/Unity.XR.Interaction.Toolkit.Editor.asmdef
+  artifactKey: Guid(190979c3ed6e41c448f5e9925429edf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Editor/Unity.XR.Interaction.Toolkit.Editor.asmdef using Guid(190979c3ed6e41c448f5e9925429edf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64f502af01ac7ce7304912ff3ffef99') in 0.005868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.049622 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Editor/XR
+  artifactKey: Guid(04ae37a6c4a63a249b01e86bac1b68b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Editor/XR using Guid(04ae37a6c4a63a249b01e86bac1b68b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a656fb208829e42157ae331ee666400') in 0.005316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.113374 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Runtime
+  artifactKey: Guid(be48be1b1a8d842c5b1a7f0dc9a13977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Runtime using Guid(be48be1b1a8d842c5b1a7f0dc9a13977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df500067e8d3645ed5b4b9d80a93ef25') in 0.005397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032645 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Runtime/Unity.XR.Interaction.Toolkit.asmdef
+  artifactKey: Guid(fe685ec1767f73d42b749ea8045bfe43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Runtime/Unity.XR.Interaction.Toolkit.asmdef using Guid(fe685ec1767f73d42b749ea8045bfe43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce68ee086c127dde9121285d039159f') in 0.004808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.665506 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Tests
+  artifactKey: Guid(ef4675490668744efaf823c6ce763149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Tests using Guid(ef4675490668744efaf823c6ce763149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab1ce1346400761f0a620e3cda88eac') in 0.005284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.493030 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Editor/Interaction
+  artifactKey: Guid(de2bd82cd68711d43b609643e5e06857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Editor/Interaction using Guid(de2bd82cd68711d43b609643e5e06857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b445ad127eb3c049c688c0146c6284e') in 0.005115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.263625 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Editor/Interaction/Interactors
+  artifactKey: Guid(869e9b0ee91f3bb4384cf6b728e47198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Editor/Interaction/Interactors using Guid(869e9b0ee91f3bb4384cf6b728e47198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0932739ed6a5cca12b438b084b9b5') in 0.005387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.248291 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Editor/Interaction/Layers
+  artifactKey: Guid(6261343317e474646b2b5e0416355926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Editor/Interaction/Layers using Guid(6261343317e474646b2b5e0416355926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9cc9313f062508298de08a0df91e36') in 0.004912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.211498 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Editor/Interaction/Controllers
+  artifactKey: Guid(09204bb9ca1545e4aa9bbb483e9ed1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Editor/Interaction/Controllers using Guid(09204bb9ca1545e4aa9bbb483e9ed1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb7855a750a9e4c4780dd16a694f711') in 0.005198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.910853 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/AirDuct_01_Corner_Collider.asset
+  artifactKey: Guid(f2211dd587b1cf64d8afb8cc257c51ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/AirDuct_01_Corner_Collider.asset using Guid(f2211dd587b1cf64d8afb8cc257c51ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e991a9e1bedc15fa5f960fe01b9816') in 0.013848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/BrownLight_snaps002.mat
+  artifactKey: Guid(71f36e2ebd1048d4c8a171c8e1958a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/BrownLight_snaps002.mat using Guid(71f36e2ebd1048d4c8a171c8e1958a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a564a1fd687c8bfb324905d02d5ff6') in 0.012800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_Wall_Corner_Collider.asset
+  artifactKey: Guid(be8ec965565887f47b2aab11dbc5e32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_Wall_Corner_Collider.asset using Guid(be8ec965565887f47b2aab11dbc5e32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148e2e92191bab9d47d789256317defc') in 0.010724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Black Plastic_snaps002.mat
+  artifactKey: Guid(7332bdaf1f2a0394ea703cbaf96db22e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Black Plastic_snaps002.mat using Guid(7332bdaf1f2a0394ea703cbaf96db22e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b9a2a64deef82ed8a5d43562485aa9') in 0.011596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Cabinet_04_snaps001.prefab
+  artifactKey: Guid(6ceca4d01ca8690498194787a589d0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Cabinet_04_snaps001.prefab using Guid(6ceca4d01ca8690498194787a589d0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306ecc66cadfe8f11d8d5833b0154a1c') in 0.013778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Cabinet_03_snaps001.prefab
+  artifactKey: Guid(52e174db68e69754b9b080b25a308977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Cabinet_03_snaps001.prefab using Guid(52e174db68e69754b9b080b25a308977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474d10b28d67490abf35fb745fc9a430') in 0.014502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/AirDuct_01_Corner_snaps001.prefab
+  artifactKey: Guid(d296783be175704488ac6627ca10202c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/AirDuct_01_Corner_snaps001.prefab using Guid(d296783be175704488ac6627ca10202c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d17b6cb1ee5eb5328d9a511e1a94e82') in 0.011561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Cabinet_01_snaps001.prefab
+  artifactKey: Guid(14e4e479b0ada4d49bfe66d6f080bb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Cabinet_01_snaps001.prefab using Guid(14e4e479b0ada4d49bfe66d6f080bb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fe1a05b0bac9034da05105558d7cbfb') in 0.012360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Floors_Ceilings/Meshes/Classic_Ceiling_01_snaps001.asset
+  artifactKey: Guid(e8e370cd886a4cb46be598947408b009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Floors_Ceilings/Meshes/Classic_Ceiling_01_snaps001.asset using Guid(e8e370cd886a4cb46be598947408b009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52442f1b0dcbb16a41bc25e985d88f4') in 0.010729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Classic_DoubleDoor_01_snaps001.prefab
+  artifactKey: Guid(d82bc42a44b50814b814b25caf68fa8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Classic_DoubleDoor_01_snaps001.prefab using Guid(d82bc42a44b50814b814b25caf68fa8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba328c4419189fc0202c84153dd6257e') in 0.012786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Classic_Door_01_snaps001.asset
+  artifactKey: Guid(35f1de9d25a6b314a9fe72a80dd93be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Classic_Door_01_snaps001.asset using Guid(35f1de9d25a6b314a9fe72a80dd93be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebd1ca767f4a8c684c6f2582ceca22e2') in 0.012269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/AirDuct_01_snaps001.asset
+  artifactKey: Guid(dc132711e5cf0d8489ca0c2edc965e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/AirDuct_01_snaps001.asset using Guid(dc132711e5cf0d8489ca0c2edc965e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc811ee9ebab18e0168ad8622ae80c7') in 0.009829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Classic_Wall_Corner_snaps001.prefab
+  artifactKey: Guid(2dd6a41bf3754ca45a0c700ba7da1771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Classic_Wall_Corner_snaps001.prefab using Guid(2dd6a41bf3754ca45a0c700ba7da1771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f508ecf606c7ad0711467bd0c23c727d') in 0.014077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/Cabinet_01_snaps001.asset
+  artifactKey: Guid(776defafc8618a94fa70931abf3029db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/Cabinet_01_snaps001.asset using Guid(776defafc8618a94fa70931abf3029db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9abc4cd35f6ccc4ff5d9efff1fe99d') in 0.010075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Cabinet_02_snaps001.prefab
+  artifactKey: Guid(eab9a1e97bf14904698f6ed18fd7e3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Cabinet_02_snaps001.prefab using Guid(eab9a1e97bf14904698f6ed18fd7e3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c318d9cd9aee7b72249a37946a78953') in 0.010631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/Cabinet_03_snaps001.asset
+  artifactKey: Guid(94d24dcd7a8b5c14086fd8d57164decf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/Cabinet_03_snaps001.asset using Guid(94d24dcd7a8b5c14086fd8d57164decf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd0e1b4d731ae8787ef29fab55568fe') in 0.009488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/Cabinet_04_snaps001.asset
+  artifactKey: Guid(19f4b497b820d084394e4017c9f22980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/Cabinet_04_snaps001.asset using Guid(19f4b497b820d084394e4017c9f22980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8101beea996e392efcc8e0f1ed393ff7') in 0.009769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Materials/BlueWindow_snaps001.mat
+  artifactKey: Guid(50e8d87218c9f9649975e35ca3232d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Materials/BlueWindow_snaps001.mat using Guid(50e8d87218c9f9649975e35ca3232d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4baf6dc603ff4b10786e28f5757888a') in 0.013772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Floors_Ceilings/Classic_Ceiling_01_snaps001.prefab
+  artifactKey: Guid(98ed76314c8d820429b556f5a446e393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Floors_Ceilings/Classic_Ceiling_01_snaps001.prefab using Guid(98ed76314c8d820429b556f5a446e393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c5723f118f65dea8dd651c2af1a6ab') in 0.011444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/CeilingLights_03_snaps001.asset
+  artifactKey: Guid(2af1cabb978dde040b158845ab867f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/CeilingLights_03_snaps001.asset using Guid(2af1cabb978dde040b158845ab867f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9e25841a8a0ad55fee5488bbe580a4') in 0.009390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Materials/BrownLight_snaps001.mat
+  artifactKey: Guid(9dd3f5b3049028f4e948921f3bf87f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Materials/BrownLight_snaps001.mat using Guid(9dd3f5b3049028f4e948921f3bf87f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba71ecb5a717c33ddf08834e3e10e7c') in 0.013366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.408075 seconds.
+  path: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+  artifactKey: Guid(0a6946ff5c2652f42849d59ea843bb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI/Settings/Resources/InteractionLayerSettings.asset using Guid(0a6946ff5c2652f42849d59ea843bb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd785093f2c390f961971329cfb7d2123') in 0.005919 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004973 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@1.11.0\Runtime\OculusLoader.cs:250 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@1.11.0\Runtime\OculusLoader.cs:235 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <0cde216a590a4d6fbc3d7db7ac203c5d>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.002 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1002ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (762ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (202ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (394ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (279ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 2633 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (72.5 KB). Loaded Objects now: 3189.
+Memory consumption went from 113.1 MB to 113.1 MB.
+Total: 3.080700 ms (FindLiveObjects: 0.210100 ms CreateObjectMapping: 0.214200 ms MarkObjects: 2.564800 ms  DeleteObjects: 0.090800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004202 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@1.11.0\Runtime\OculusLoader.cs:250 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@1.11.0\Runtime\OculusLoader.cs:235 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <0cde216a590a4d6fbc3d7db7ac203c5d>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.027 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1027ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (802ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (226ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (411ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (296ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 2633 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (80.3 KB). Loaded Objects now: 3192.
+Memory consumption went from 113.2 MB to 113.1 MB.
+Total: 3.030700 ms (FindLiveObjects: 0.206800 ms CreateObjectMapping: 0.161200 ms MarkObjects: 2.570800 ms  DeleteObjects: 0.091100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@1.11.0\Runtime\OculusLoader.cs:250 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@1.11.0\Runtime\OculusLoader.cs:235 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <0cde216a590a4d6fbc3d7db7ac203c5d>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Domain Reload Profiling:
+	ReloadAssembly (979ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (735ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (196ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (377ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (273ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 2633 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (64.6 KB). Loaded Objects now: 3195.
+Memory consumption went from 113.1 MB to 113.1 MB.
+Total: 3.042500 ms (FindLiveObjects: 0.231900 ms CreateObjectMapping: 0.194800 ms MarkObjects: 2.528500 ms  DeleteObjects: 0.086600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

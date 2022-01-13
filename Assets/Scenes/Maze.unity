@@ -2068,7 +2068,7 @@ MonoBehaviour:
   m_SphereCastRadius: 0.1
   m_RaycastMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 512
   m_RaycastTriggerInteraction: 1
   m_HitClosestOnly: 0
   m_HoverToSelect: 0
@@ -8029,7 +8029,7 @@ MonoBehaviour:
   m_SphereCastRadius: 0.1
   m_RaycastMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 256
   m_RaycastTriggerInteraction: 1
   m_HitClosestOnly: 0
   m_HoverToSelect: 0
@@ -16275,6 +16275,10 @@ PrefabInstance:
     - target: {fileID: 1039002591012174, guid: d7793afbdc0cfaa40b52b9a1d5fa2aed, type: 3}
       propertyPath: m_Name
       value: Interactable box 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039002591012174, guid: d7793afbdc0cfaa40b52b9a1d5fa2aed, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4776941504361272, guid: d7793afbdc0cfaa40b52b9a1d5fa2aed, type: 3}
       propertyPath: m_RootOrder

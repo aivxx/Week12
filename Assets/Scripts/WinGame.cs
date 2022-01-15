@@ -6,11 +6,13 @@ public class WinGame : MonoBehaviour
 {
 
     public GameObject winMessage;
+    public GameObject winZone;
 
     // Start is called before the first frame update
     void Start()
     {
         winMessage.SetActive(false);
+        winZone.SetActive(true);
     }
     private void OnTriggerEnter(Collider other)
     {
@@ -18,6 +20,7 @@ public class WinGame : MonoBehaviour
         {
             if(winMessage.activeInHierarchy)
             winMessage.SetActive(true);
+            winZone.SetActive(false);
         }
     }
 }

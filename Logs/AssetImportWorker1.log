@@ -15,7 +15,7 @@ C:/Users/Ashley/Desktop/NYU/Week12
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-63002
+59018
 Successfully changed project path to: C:/Users/Ashley/Desktop/NYU/Week12
 C:/Users/Ashley/Desktop/NYU/Week12
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,8 +47,8 @@ C:/Users/Ashley/Desktop/NYU/Week12
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 57.21 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.63 ms.
+Refreshing native plugins compatible for Editor in 57.33 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.68 ms.
 Initialize engine version: 2021.2.7f1 (6bd9e232123f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/Ashley/Desktop/NYU/Week12/Assets
@@ -63,37 +63,37 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56732
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.009030 seconds.
+Registered in 0.007487 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 43.07 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.07 ms.
+Refreshing native plugins compatible for Editor in 44.17 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.578 seconds
+- Completed reload, in  0.589 seconds
 Domain Reload Profiling:
-	ReloadAssembly (579ms)
-		BeginReloadAssembly (67ms)
+	ReloadAssembly (590ms)
+		BeginReloadAssembly (69ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (420ms)
-			LoadAssemblies (64ms)
+		EndReloadAssembly (426ms)
+			LoadAssemblies (67ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (103ms)
+			SetupTypeCache (98ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (237ms)
+			SetupLoadedEditorAssemblies (251ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
+				InitializePlatformSupportModulesInManaged (19ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (43ms)
+				RefreshPlugins (44ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (136ms)
+				ProcessInitializeOnLoadAttributes (144ms)
 				ProcessInitializeOnLoadMethodAttributes (43ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -101,15 +101,15 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005634 seconds.
+Registered in 0.008279 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 42.36 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.06 ms.
+Refreshing native plugins compatible for Editor in 45.27 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
 Package Manager log level set to [2]
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
-  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@1.11.0\Runtime\OculusLoader.cs:250 
-  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@1.11.0\Runtime\OculusLoader.cs:235 
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@3.0.0-pre.1\Runtime\OculusLoader.cs:255 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Ashley\Desktop\NYU\Week12\Library\PackageCache\com.unity.xr.oculus@3.0.0-pre.1\Runtime\OculusLoader.cs:240 
   at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
   at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <31c0f51ac5a24a22ba784db24f4ba023>:0 
    --- End of inner exception stack trace ---
@@ -123,43 +123,43 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.125 seconds
+- Completed reload, in  1.154 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1126ms)
-		BeginReloadAssembly (109ms)
+	ReloadAssembly (1154ms)
+		BeginReloadAssembly (100ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (21ms)
-		EndReloadAssembly (920ms)
-			LoadAssemblies (72ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (956ms)
+			LoadAssemblies (69ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (197ms)
+			SetupTypeCache (203ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (53ms)
-			SetupLoadedEditorAssemblies (555ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (589ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (10ms)
+				InitializePlatformSupportModulesInManaged (11ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (42ms)
-				BeforeProcessingInitializeOnLoad (80ms)
-				ProcessInitializeOnLoadAttributes (385ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				RefreshPlugins (45ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (416ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (9ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 5 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 10 plugins.
 Preloading 1 native plugins for Editor in 0.07 ms.
-Unloading 2680 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 119 unused Assets / (100.1 KB). Loaded Objects now: 3140.
-Memory consumption went from 111.7 MB to 111.6 MB.
-Total: 2.911900 ms (FindLiveObjects: 0.203600 ms CreateObjectMapping: 0.158900 ms MarkObjects: 2.374300 ms  DeleteObjects: 0.174200 ms)
+Unloading 2786 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 137 unused Assets / (123.9 KB). Loaded Objects now: 3229.
+Memory consumption went from 117.3 MB to 117.2 MB.
+Total: 3.260700 ms (FindLiveObjects: 0.241800 ms CreateObjectMapping: 0.221400 ms MarkObjects: 2.623700 ms  DeleteObjects: 0.173200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -173,47 +173,271 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1717.105008 seconds.
-  path: Assets/Prefabs/Cube.prefab
-  artifactKey: Guid(4d05c206650c495419ea0c1a88161fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Cube.prefab using Guid(4d05c206650c495419ea0c1a88161fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd38acb2657010537357eccea743bbf9e') in 0.088741 seconds 
+  Time since last request: 150128.718198 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Orange_snaps002.mat
+  artifactKey: Guid(1d2cbf17d90a3884f8f0c10cd230f809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Orange_snaps002.mat using Guid(1d2cbf17d90a3884f8f0c10cd230f809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b5346a5f6018b5f7619a00b28e74ff') in 0.113785 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 53.208123 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Props/Meshes/Barrel_02_snaps002.asset
-  artifactKey: Guid(ba20de77dbc022d499555bf5273512f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Props/Meshes/Barrel_02_snaps002.asset using Guid(ba20de77dbc022d499555bf5273512f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed4847bcfb67eb622949d1584736bec') in 0.030312 seconds 
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/WClamp_03_snaps002.prefab
+  artifactKey: Guid(2720f7020a384934482be714bb621466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/WClamp_03_snaps002.prefab using Guid(2720f7020a384934482be714bb621466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1f3c7b3ca44cfb4df158eb040d0329') in 0.029930 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Meshes/CapShock_M_01_snaps002.asset
-  artifactKey: Guid(ed15ab6bc06c9fd48a49238a8a581428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Meshes/CapShock_M_01_snaps002.asset using Guid(ed15ab6bc06c9fd48a49238a8a581428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd330d4d52667691c1010d912a5a47027') in 0.015741 seconds 
+  Time since last request: 0.000028 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/SectionSeal_01_snaps002.prefab
+  artifactKey: Guid(493857c1d7678b642bc712689b449ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/SectionSeal_01_snaps002.prefab using Guid(493857c1d7678b642bc712689b449ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d925c2cef328aae53eb2666db7a65b') in 0.025484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/GrillEnd_snaps002.prefab
+  artifactKey: Guid(c5e3aac738f6042419f4a2a40a92ace4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/GrillEnd_snaps002.prefab using Guid(c5e3aac738f6042419f4a2a40a92ace4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd568969d694576354c9a6eb6e8651103') in 0.025675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Green_snaps002.mat
+  artifactKey: Guid(e9344e17b514ca145b2770f992f1d995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Green_snaps002.mat using Guid(e9344e17b514ca145b2770f992f1d995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660391952ecf4b29f7f6d46586f97380') in 0.017015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Vent_01_snaps002.prefab
+  artifactKey: Guid(9ac40cb0b3cb9654f88812ce1de07e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Vent_01_snaps002.prefab using Guid(9ac40cb0b3cb9654f88812ce1de07e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383c3cfd915b35d2dc323fbc5af45be3') in 0.024556 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000016 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Props/Meshes/Barrel_03_snaps002.asset
-  artifactKey: Guid(552db02216e7d864fb3a19958a79991d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Props/Meshes/Barrel_03_snaps002.asset using Guid(552db02216e7d864fb3a19958a79991d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb9059b0479a2185c75e72b78103e71') in 0.039686 seconds 
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/LightBlue_snaps002.mat
+  artifactKey: Guid(4b600b0043b600a42a640a24ab4dea01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/LightBlue_snaps002.mat using Guid(4b600b0043b600a42a640a24ab4dea01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6da511a2c22b1e76e81cd6b3bce38db') in 0.015887 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Meshes/Bolton_M_01_snaps002.asset
-  artifactKey: Guid(03cc1182a5812284ea0a02bb9943ca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Meshes/Bolton_M_01_snaps002.asset using Guid(03cc1182a5812284ea0a02bb9943ca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0115ece92734685fb047b257fa87f89') in 0.020585 seconds 
+  Time since last request: 0.000012 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Red_snaps002.mat
+  artifactKey: Guid(015a5e2de7cf2514eb887cb8b34877d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Red_snaps002.mat using Guid(015a5e2de7cf2514eb887cb8b34877d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adea23c4b2ba6fd5da2430dae02173eb') in 0.018087 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000017 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Meshes/Bolton_M_03_snaps002.asset
-  artifactKey: Guid(1a24c0ef7f778d54d807173eb5affcd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Meshes/Bolton_M_03_snaps002.asset using Guid(1a24c0ef7f778d54d807173eb5affcd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '326b03e8ca8eaa0510b3cf7a7d5cd43a') in 0.027428 seconds 
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Conduit_M_01_snaps002.prefab
+  artifactKey: Guid(defc1954bd6bc1347aa94a45192f58db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Conduit_M_01_snaps002.prefab using Guid(defc1954bd6bc1347aa94a45192f58db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b4e7058e5d3d41ce50da97436938a9') in 0.039659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/GreenBlack_snaps002.mat
+  artifactKey: Guid(38f55b85103d762478d8298d58d90704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/GreenBlack_snaps002.mat using Guid(38f55b85103d762478d8298d58d90704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31116185a63c9f467c269fbf0f545555') in 0.014665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Crossbar_02_snaps002.prefab
+  artifactKey: Guid(7231588b9603215498bbcc3333b73fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Crossbar_02_snaps002.prefab using Guid(7231588b9603215498bbcc3333b73fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c722831c88315392ddff4cfdd3961e') in 0.017996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Frame_01_BevelThick_snaps002.prefab
+  artifactKey: Guid(1a3dc7a3ef9720c43b42e150e1564266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Frame_01_BevelThick_snaps002.prefab using Guid(1a3dc7a3ef9720c43b42e150e1564266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871761644304853de79d33138867ac45') in 0.016774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/PistonClamp_01_snaps002.prefab
+  artifactKey: Guid(13f1546a2ac91fd42a68ff9b0b09e2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/PistonClamp_01_snaps002.prefab using Guid(13f1546a2ac91fd42a68ff9b0b09e2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71cc82def4e6c78797fed5afd607b631') in 0.018688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Vent_02_snaps002.prefab
+  artifactKey: Guid(6d007ad5ada6c03408e15b31bd8d43e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Vent_02_snaps002.prefab using Guid(6d007ad5ada6c03408e15b31bd8d43e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3504a0c7a91b749f4786a8345912c9a') in 0.017510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/FrameBox_snaps002.prefab
+  artifactKey: Guid(d780078da71ef864ea6d55117fdce058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/FrameBox_snaps002.prefab using Guid(d780078da71ef864ea6d55117fdce058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd5bbaecf495352fa887d0c0bb08edd3') in 0.016223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/WClamp_01_snaps002.prefab
+  artifactKey: Guid(3682bdd09cd6a6241aa4f9edfff214e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/WClamp_01_snaps002.prefab using Guid(3682bdd09cd6a6241aa4f9edfff214e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65429b2152dca7912e1c74985a098e9f') in 0.016746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Khaki Damp.mat
+  artifactKey: Guid(4afc0ffccab963644a4b0b22117f129e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Khaki Damp.mat using Guid(4afc0ffccab963644a4b0b22117f129e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0bee59bfc60c3710994e4b6f72ba9f5') in 0.015437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Machine Green_snaps002.mat
+  artifactKey: Guid(86c38cc17be868947801ac9b80453963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Machine Green_snaps002.mat using Guid(86c38cc17be868947801ac9b80453963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc090a7132c8326eb67893db50fbc07') in 0.011633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/DeepBlue_snaps002.mat
+  artifactKey: Guid(0b92533b0a3d3c04fa7000b22310b7ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/DeepBlue_snaps002.mat using Guid(0b92533b0a3d3c04fa7000b22310b7ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a40cf4d80afdd5d7665d37fc423e5c') in 0.015385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/SectionSeal_02_snaps002.prefab
+  artifactKey: Guid(f662bb257bdbe4b4098d75c944baa81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/SectionSeal_02_snaps002.prefab using Guid(f662bb257bdbe4b4098d75c944baa81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '951daf9f154fc8c9fbd004430efba9b1') in 0.018081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/LightGray_snaps002.mat
+  artifactKey: Guid(e9522692f253ab04c990a8e0a40029ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/LightGray_snaps002.mat using Guid(e9522692f253ab04c990a8e0a40029ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63bd8a568eb693bc6fec5b9b27ee4d0e') in 0.015081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Brown_snaps002.mat
+  artifactKey: Guid(b609a3a0d0f709a4193ad047dae28329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Materials/Brown_snaps002.mat using Guid(b609a3a0d0f709a4193ad047dae28329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762501caeede468ab9b29889699e2150') in 0.015727 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000024 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Meshes/CabelCover_01_snaps002.asset
-  artifactKey: Guid(e7fdbf58a07235d4aaf52469f352ccd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/Meshes/CabelCover_01_snaps002.asset using Guid(e7fdbf58a07235d4aaf52469f352ccd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3cfe1a3bef3a3bf00e6621cd23c36eb') in 0.016428 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/TurbineCover_01_snaps002.prefab
+  artifactKey: Guid(b390f1ac5ced8b04380a78248e858c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/TurbineCover_01_snaps002.prefab using Guid(b390f1ac5ced8b04380a78248e858c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ef4d1a1e9fc3330e71426fdef69e91') in 0.018376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/GrillPlate_snaps002.prefab
+  artifactKey: Guid(0309318c4d3de3b4eb23dc02c52d6871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Decor/GrillPlate_snaps002.prefab using Guid(0309318c4d3de3b4eb23dc02c52d6871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef320e9a5eecaab2433b83def68548f7') in 0.015374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 284.131155 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/NestedPrefabs/Doorway_Balcony_3X1.prefab
+  artifactKey: Guid(f0075f9ff8684d2498269202fd7753ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/NestedPrefabs/Doorway_Balcony_3X1.prefab using Guid(f0075f9ff8684d2498269202fd7753ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd23ef06a7846f6b5623952cfbd00a1') in 0.069190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/NestedPrefabs/Wall_Balcony_3X1.prefab
+  artifactKey: Guid(6162963469b806c479d6799947b9be2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/NestedPrefabs/Wall_Balcony_3X1.prefab using Guid(6162963469b806c479d6799947b9be2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e4835ae310b11bd0991dc1147aa9371') in 0.027322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/NestedPrefabs/Stairway_Balcony_3X1.prefab
+  artifactKey: Guid(a24a1ab7f3b926a47b003a6260ffd84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/NestedPrefabs/Stairway_Balcony_3X1.prefab using Guid(a24a1ab7f3b926a47b003a6260ffd84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23d89c2e7ea93271720e8df4d70d0ca') in 0.040337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 143.736016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure
+  artifactKey: Guid(9a17b63390b2416458c1a71c8f5b7af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure using Guid(9a17b63390b2416458c1a71c8f5b7af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cacaefae982cd52b62ae27387bade40') in 0.004996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.090293 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports
+  artifactKey: Guid(ce01eac15f82f6b49a368ea00bbb264b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports using Guid(ce01eac15f82f6b49a368ea00bbb264b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5877e129aa13e50c890b5ae4527a95') in 0.004632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030560 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Gale_Pillar_01_snaps002.prefab
+  artifactKey: Guid(3ab9a883bb2728d4ea8e56b33bcea8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Gale_Pillar_01_snaps002.prefab using Guid(3ab9a883bb2728d4ea8e56b33bcea8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf13ab4c884f12dcfa4df187e672b6c') in 0.019819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Gale_Wall_Support_01_snaps002.prefab
+  artifactKey: Guid(f8f2628ca1432b04b9b3052a2f28c208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Gale_Wall_Support_01_snaps002.prefab using Guid(f8f2628ca1432b04b9b3052a2f28c208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf54ba4d71dcb28a04a20db90b23c0c') in 0.017382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Wall_Support_Big_snaps002.prefab
+  artifactKey: Guid(e4d5c0d3d9b21f840a3309933254e833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Wall_Support_Big_snaps002.prefab using Guid(e4d5c0d3d9b21f840a3309933254e833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb48c26b83e14430a8bb725e9d6ec5ce') in 0.014460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/VerticalStrat_01_Connector_snaps002.prefab
+  artifactKey: Guid(fc62ef998eb59b346b34d565f38deb3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/VerticalStrat_01_Connector_snaps002.prefab using Guid(fc62ef998eb59b346b34d565f38deb3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0d5544479325891e681bec7ed5c029') in 0.011616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Hale_Pillar_02_snaps002.prefab
+  artifactKey: Guid(0f6381faceff7bc46983f6f88a736198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Hale_Pillar_02_snaps002.prefab using Guid(0f6381faceff7bc46983f6f88a736198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2203f55f13b65b3009c0035a0a626f6') in 0.015097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/VerticalStrat_01_Base_snaps002.prefab
+  artifactKey: Guid(d13e48964f4a8db45b4088d8fb10d581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/VerticalStrat_01_Base_snaps002.prefab using Guid(d13e48964f4a8db45b4088d8fb10d581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27229e47c74252f1047361639d88020') in 0.013259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/VerticalStrat_01_snaps002.prefab
+  artifactKey: Guid(d4a69086e0bd5e440a2bda14734b225c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/VerticalStrat_01_snaps002.prefab using Guid(d4a69086e0bd5e440a2bda14734b225c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f86b67a5f93619e712643955664b0c') in 0.015567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Hale_Wall_Support_01_snaps002.prefab
+  artifactKey: Guid(5c25f761d301e2849b03446d5bae1b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Pillars_Supports/Hale_Wall_Support_01_snaps002.prefab using Guid(5c25f761d301e2849b03446d5bae1b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16941286e39d0c5d3695ddbcc2633388') in 0.018721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3861.729418 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Doors_Windows/Deck_Door_02_snaps002.prefab
+  artifactKey: Guid(79298396da72aeb4a9dbe792d38ccf1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Doors_Windows/Deck_Door_02_snaps002.prefab using Guid(79298396da72aeb4a9dbe792d38ccf1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b3023a8618c1d31d65dd032f9913144') in 0.026057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Doors_Windows/Quart_Door_01_snaps002.prefab
+  artifactKey: Guid(691269d06a74ab245ae4360e978425bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Doors_Windows/Quart_Door_01_snaps002.prefab using Guid(691269d06a74ab245ae4360e978425bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f65d51cb0c16969a79b2caede522eaa') in 0.021416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Doors_Windows/Gen_Door_01_snaps002.prefab
+  artifactKey: Guid(24f3bfb6ffbd4e449a23c62225e14873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Doors_Windows/Gen_Door_01_snaps002.prefab using Guid(24f3bfb6ffbd4e449a23c62225e14873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de600352e69c0a6758b60e15d49643d2') in 0.015666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.458231 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Stairs_Ramps/Gen_Ramp_01_snaps002.prefab
+  artifactKey: Guid(81279501067723a43bb567f45f07c5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Stairs_Ramps/Gen_Ramp_01_snaps002.prefab using Guid(81279501067723a43bb567f45f07c5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82f20d3081ba32a3b1abd31be9edb8c') in 0.028111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Stairs_Ramps/Quart_Stairs_01_snaps002.prefab
+  artifactKey: Guid(dc3d2c5a3d4ce3e44be28b500526dc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Stairs_Ramps/Quart_Stairs_01_snaps002.prefab using Guid(dc3d2c5a3d4ce3e44be28b500526dc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4229ce39d617b014413a093279e3c2e8') in 0.023159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.306684 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Floors_Ceilings/Deck_Ceiling_02_snaps002.prefab
+  artifactKey: Guid(1a8e35a83ad2f4d449d1255a2310462c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Floors_Ceilings/Deck_Ceiling_02_snaps002.prefab using Guid(1a8e35a83ad2f4d449d1255a2310462c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542a7be3d32c2ed2c526f5a498c5f51c') in 0.019550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Floors_Ceilings/Gen_Ceiling_01_snaps002.prefab
+  artifactKey: Guid(2955c9e25b5689241aa77f1655c69b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Floors_Ceilings/Gen_Ceiling_01_snaps002.prefab using Guid(2955c9e25b5689241aa77f1655c69b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2174449e5f8d267845872544eb31c713') in 0.015666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001444 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Floors_Ceilings/Quart_Ceiling_02_snaps002.prefab
+  artifactKey: Guid(47645e6370fb9eb498189c1439e90c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/SciFi_Industrial/Prefabs/Structure/Floors_Ceilings/Quart_Ceiling_02_snaps002.prefab using Guid(47645e6370fb9eb498189c1439e90c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62ad9fac112335d907dd5a47da45234') in 0.019022 seconds 

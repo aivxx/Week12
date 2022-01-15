@@ -18,7 +18,7 @@ public class WinGame : MonoBehaviour
     {
         if(other.gameObject.CompareTag("MainCamera"))
         {
-            if(winMessage.activeInHierarchy)
+            if(!winMessage.activeInHierarchy)
             winMessage.SetActive(true);
             winZone.SetActive(false);
         }

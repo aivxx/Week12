@@ -2,6 +2,10 @@
  VR Maze Week 12
 
 
+Download Unity pkg
+https://drive.google.com/file/d/1kIej23Rj2MoegRAHInmfJjFNGqfmHgud/view?usp=sharing
+
+
 -- Challenges
 
    I ran across a few challenges with this VR Maze. First, I had trouble figuring out which XR Origin to use. After some troubleshooting, I learned that a few of them worked but only Device Based XR Origin gave me the L and R controllers.
